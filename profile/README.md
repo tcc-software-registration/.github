@@ -11,6 +11,6 @@ For this registration to be carried out in partnership with the Federal Institut
 
 * Fork the project to this organization (contact an administrator for this organization).
 
-* Fill out the [form](form-software-registration.docx) (contact your advisor).
+* Fill out the [form](https://github.com/tcc-software-registration/.github/blob/main/profile/form-software-registration.docx) (contact your advisor).
 
 * Send the completed form to the advisor so that the process can be opened.
