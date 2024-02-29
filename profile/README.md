@@ -9,5 +9,8 @@ For this registration to be carried out in partnership with the Federal Institut
 
 ## Required artifacts
 
-* Fill out the [form](../form-software-registration.docx) (contact your advisor).
 * Fork the project to this organization (contact an administrator for this organization).
+
+* Fill out the [form](form-software-registration.docx) (contact your advisor).
+
+* Send the completed form to the advisor so that the process can be opened.
