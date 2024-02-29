@@ -1,16 +1,20 @@
 # Registro de Software
 
-Esta organização tem por objetivo orientar o processo de registro de software que são desenvolvidos nos trabalhos de conclusão de curso.
+Esta organização tem como objetivo orientar o processo de registro de software que é desenvolvido nos trabalhos de conclusão de curso.
 
-Inicialmente, o(a) aluno(a) deve entrar em contato com o seu orientador para verificar a viabilidade no registro do software. 
+Inicialmente o aluno deverá entrar em contato com seu orientador para verificar a viabilidade de registro do software.
 
-Para que este registro seja realizado em parceria com o Instituto Federal da Paraíba é necessário que sejam preenchidos alguns documentos e atendidos aos requisitos institucionais.
+Para que esse cadastro seja realizado em parceria com o Instituto Federal da Paraíba é necessário preencher alguns documentos e atender requisitos institucionais.
 
 
-### Artefatos necessários
+## Artefatos necessários
 
-* Realizar o fork do projeto para esta organização (entre em contato com um administrador desta organização).
+* Realize o fork do projeto para esta organização (entre em contato com um administrador desta organização).
 
-* Preencher o formulário (entrar em contato com o seu orientador).
+* Em seu repositório de software, crie um README.md com orientações básicas sobre o projeto e os passos para sua execução. Lembre-se de incluir uma pequena seção descrevendo todos os colaboradores.
 
-* Envie o formulário preenchido ao orientador para que seja o processo seja aberto.
+* Fornecer um pequeno vídeo descrevendo o software (pode ser o vídeo apresentado no TCC) e adicione o link no README do seu repositório.
+
+* Preencha o [formulário](https://github.com/tcc-software-registration/.github/blob/main/profile/form-software-registration.docx) (entre em contato com seu consultor).
+
+* Enviar o formulário preenchido ao orientador para que o processo seja aberto.
